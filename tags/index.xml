@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Melo&#39;s Blog</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Melo&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Melo</copyright>
+    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>体验</title>
+      <link>http://example.org/tags/%E4%BD%93%E9%AA%8C/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/%E4%BD%93%E9%AA%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>寓教于乐</title>
+      <link>http://example.org/tags/%E5%AF%93%E6%95%99%E4%BA%8E%E4%B9%90/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/%E5%AF%93%E6%95%99%E4%BA%8E%E4%B9%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>游戏</title>
+      <link>http://example.org/tags/%E6%B8%B8%E6%88%8F/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/%E6%B8%B8%E6%88%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>工业革命</title>
+      <link>http://example.org/tags/%E5%B7%A5%E4%B8%9A%E9%9D%A9%E5%91%BD/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/%E5%B7%A5%E4%B8%9A%E9%9D%A9%E5%91%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>建筑史</title>
+      <link>http://example.org/tags/%E5%BB%BA%E7%AD%91%E5%8F%B2/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/%E5%BB%BA%E7%AD%91%E5%8F%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>艺术运动</title>
+      <link>http://example.org/tags/%E8%89%BA%E6%9C%AF%E8%BF%90%E5%8A%A8/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/%E8%89%BA%E6%9C%AF%E8%BF%90%E5%8A%A8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
